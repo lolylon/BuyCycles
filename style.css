@@ -732,3 +732,8 @@ a {
 .column-span a:hover {
     color: #ffffff;
 }
+
+.header-nav-icons a img:hover{
+    filter: invert(100%);
+    fill:#ffffff;
+}
