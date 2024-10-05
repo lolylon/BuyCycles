@@ -1,0 +1,35 @@
+@media only screen and (max-width:1375px) {
+    .hero-container {
+        margin-left: 25px;
+        margin-right: 25px;
+    }
+}
+
+
+@media only screen and (max-width:1160px) {
+    .header-navigation {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+}
+
+
+
+@media only screen and (max-width:925px) {
+    .hero-container-title {
+        text-align: center;
+        margin: 0 auto;
+        font-size: 65px;
+    }
+
+    .hero-container-textinfo {
+        text-align: center;
+        margin: 0 auto;
+        font-size: 22px;
+    }
+
+    .hero-buttons {
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+}
